@@ -70,7 +70,7 @@ public class Practice_Set_1 {
 
 //      OR-->
 
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class Practice_Set_1 {
      public static void main(String args []){
            System.out.print("Enter Your Number : ");
@@ -79,6 +79,7 @@ public class Practice_Set_1 {
 
      }
 }
+*/
 
 
 
